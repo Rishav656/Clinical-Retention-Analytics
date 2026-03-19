@@ -1,0 +1,201 @@
+treatment_id,doctor_name,diagnosis,icu_required,ventilator_used,oxygen_used,shift_hours,outcome
+T001,Dr. Aris,Septic Shock,TRUE,TRUE,TRUE,14.5,Critical
+T002,Dr. Aris,Respiratory Failure,TRUE,TRUE,TRUE,15,Deceased
+T003,Dr. Miller,Acute Kidney Injury,FALSE,FALSE,FALSE,8,Stable
+T004,Dr. Smith,Trauma (MVA),TRUE,TRUE,TRUE,12,Recovered
+T005,Dr. Aris,COVID-19 Pneumonia,TRUE,FALSE,TRUE,16.5,Critical
+T006,Dr. Khan,Acute MI,TRUE,FALSE,TRUE,9,Stable
+T007,Dr. Aris,Secondary Infection,FALSE,FALSE,TRUE,18,Stable
+T008,Dr. Miller,Heart Failure,TRUE,TRUE,TRUE,11.5,Recovered
+T009,Dr. Khan,Pulmonary Embolism,TRUE,TRUE,TRUE,13,Deceased
+T010,Dr. Smith,Severe Dehydration,FALSE,FALSE,FALSE,6,Recovered
+T011,Dr. Aris,ARDS,TRUE,TRUE,TRUE,19.5,Critical
+T012,Dr. Aris,Septic Shock,TRUE,FALSE,TRUE,20,Deceased
+T013,Dr. Miller,Pneumonia,FALSE,FALSE,TRUE,10,Stable
+T014,Dr. Lee,Hypertensive Crisis,TRUE,FALSE,FALSE,12,Recovered
+T015,Dr. Aris,Multiorgan Failure,TRUE,TRUE,TRUE,17,Deceased
+T016,Dr. Aris,Ischemic Stroke,TRUE,FALSE,TRUE,15.5,Stable
+T017,Dr. Smith,Aortic Dissection,TRUE,TRUE,TRUE,14,Critical
+T018,Dr. Miller,Post-Op Sepsis,TRUE,FALSE,TRUE,11,Stable
+T019,Dr. Aris,Diabetic Ketoacidosis,FALSE,FALSE,FALSE,16,Recovered
+T020,Dr. Khan,Anaphylaxis,TRUE,FALSE,TRUE,8.5,Stable
+T021,Dr. Aris,Bacterial Meningitis,TRUE,TRUE,TRUE,21,Critical
+T022,Dr. Aris,Renal Failure,TRUE,FALSE,TRUE,22,Deceased
+T023,Dr. Miller,Asthma Attack,FALSE,FALSE,TRUE,9,Recovered
+T024,Dr. Smith,Internal Bleeding,TRUE,TRUE,TRUE,13.5,Stable
+T025,Dr. Aris,Septic Shock,TRUE,TRUE,TRUE,18.5,Deceased
+T026,Dr. Khan,Liver Cirrhosis,TRUE,FALSE,FALSE,10,Critical
+T027,Dr. Aris,Pneumonia,TRUE,TRUE,TRUE,16,Stable
+T028,Dr. Lee,Hip Fracture,FALSE,FALSE,FALSE,11,Recovered
+T029,Dr. Aris,Ischemic Stroke,TRUE,TRUE,TRUE,19,Critical
+T030,Dr. Miller,Pancreatitis,FALSE,FALSE,FALSE,8.5,Stable
+T031,Dr. Khan,Pulmonary Oedema,TRUE,TRUE,TRUE,14,Deceased
+T032,Dr. Aris,Viral Encephalitis,TRUE,FALSE,TRUE,20.5,Critical
+T033,Dr. Smith,GI Bleed,TRUE,FALSE,TRUE,12,Stable
+T034,Dr. Aris,Septic Shock,TRUE,TRUE,TRUE,21.5,Deceased
+T035,Dr. Khan,Post-Surgical Sepsis,TRUE,TRUE,TRUE,15,Stable
+T036,Dr. Aris,Respiratory Distress,TRUE,FALSE,TRUE,22.5,Critical
+T037,Dr. Miller,Heart Failure,FALSE,FALSE,TRUE,10,Recovered
+T038,Dr. Aris,Multiple Trauma,TRUE,TRUE,TRUE,23,Deceased
+T039,Dr. Smith,COVID-19,TRUE,TRUE,TRUE,14.5,Stable
+T040,Dr. Aris,Acute Pancreatitis,FALSE,FALSE,FALSE,15,Recovered
+T041,Dr. Aris,Severe Sepsis,TRUE,TRUE,TRUE,15.5,Critical
+T042,Dr. Khan,Cardiogenic Shock,TRUE,FALSE,TRUE,16,Deceased
+T043,Dr. Aris,Pulmonary Edema,TRUE,TRUE,TRUE,16.5,Stable
+T044,Dr. Miller,Acute Asthma,FALSE,FALSE,TRUE,8.5,Recovered
+T045,Dr. Aris,Renal Failure,TRUE,FALSE,TRUE,17.5,Critical
+T046,Dr. Khan,Hemorrhagic Stroke,TRUE,TRUE,TRUE,17,Deceased
+T047,Dr. Aris,ARDS,TRUE,TRUE,TRUE,18,Critical
+T048,Dr. Smith,Hip Fracture,FALSE,FALSE,FALSE,10,Recovered
+T049,Dr. Aris,Septic Shock,TRUE,FALSE,TRUE,19,Deceased
+T050,Dr. Khan,Multiple Trauma,TRUE,TRUE,TRUE,18,Stable
+T051,Dr. Aris,Pneumonia,TRUE,TRUE,TRUE,19.5,Stable
+T052,Dr. Aris,Respiratory Failure,TRUE,FALSE,TRUE,20,Deceased
+T053,Dr. Miller,Chest Pain,FALSE,FALSE,FALSE,9,Stable
+T054,Dr. Khan,Meningitis,TRUE,TRUE,TRUE,19,Critical
+T055,Dr. Aris,Heart Failure,TRUE,TRUE,TRUE,21,Critical
+T056,Dr. Aris,Hemorrhagic Stroke,TRUE,TRUE,TRUE,16.5,Critical
+T057,Dr. Khan,Pulmonary Embolism,TRUE,FALSE,TRUE,14,Stable
+T058,Dr. Aris,Septic Shock,TRUE,TRUE,TRUE,17.5,Deceased
+T059,Dr. Miller,Acute Bronchitis,FALSE,FALSE,TRUE,8,Recovered
+T060,Dr. Aris,Cardiogenic Shock,TRUE,FALSE,TRUE,18,Deceased
+T061,Dr. Khan,Multiple Trauma,TRUE,TRUE,TRUE,15.5,Stable
+T062,Dr. Smith,Fracture Dislocation,FALSE,FALSE,FALSE,9.5,Recovered
+T063,Dr. Aris,Respiratory Failure,TRUE,TRUE,TRUE,19,Critical
+T064,Dr. Khan,Internal Bleeding,TRUE,FALSE,TRUE,16,Stable
+T065,Dr. Aris,ARDS,TRUE,FALSE,TRUE,20,Deceased
+T066,Dr. Miller,Kidney Stones,FALSE,FALSE,FALSE,10,Recovered
+T067,Dr. Aris,Sepsis (Readmission),TRUE,TRUE,TRUE,21,Critical
+T068,Dr. Khan,Heart Attack,TRUE,TRUE,TRUE,17,Deceased
+T069,Dr. Smith,Viral Pneumonia,FALSE,FALSE,TRUE,11,Stable
+T070,Dr. Aris,Organ Failure,TRUE,FALSE,TRUE,22,Deceased
+T071,Dr. Khan,Head Injury,TRUE,TRUE,TRUE,18,Stable
+T072,Dr. Aris,Refractory Shock,TRUE,TRUE,TRUE,23,Critical
+T073,Dr. Miller,Severe Dehydration,FALSE,FALSE,FALSE,7.5,Recovered
+T074,Dr. Aris,Brain Hemorrhage,TRUE,TRUE,TRUE,15,Deceased
+T075,Dr. Khan,COVID-19 Severe,TRUE,FALSE,TRUE,19.5,Critical
+T076,Dr. Smith,Post-Op Sepsis,TRUE,TRUE,TRUE,12,Stable
+T077,Dr. Aris,Pulmonary Edema,TRUE,TRUE,TRUE,16.5,Stable
+T078,Dr. Miller,Chronic COPD,FALSE,FALSE,TRUE,9,Recovered
+T079,Dr. Aris,Liver Failure,TRUE,FALSE,TRUE,18.5,Deceased
+T080,Dr. Khan,Acute Pancreatitis,FALSE,FALSE,FALSE,14.5,Stable
+T081,Dr. Aris,Septic Shock,TRUE,TRUE,TRUE,19,Critical
+T082,Dr. Smith,Hip Surgery,FALSE,FALSE,FALSE,10.5,Recovered
+T083,Dr. Khan,Lung Collapse,TRUE,TRUE,TRUE,16,Stable
+T084,Dr. Aris,Advanced Sepsis,TRUE,FALSE,TRUE,20.5,Deceased
+T085,Dr. Miller,Asthma,FALSE,FALSE,TRUE,8.5,Recovered
+T086,Dr. Aris,Heart Failure,TRUE,TRUE,TRUE,21.5,Critical
+T087,Dr. Khan,Spinal Infection,FALSE,FALSE,FALSE,15,Stable
+T088,Dr. Smith,Aortic Aneurysm,TRUE,TRUE,TRUE,13,Recovered
+T089,Dr. Aris,Renal Crisis,TRUE,TRUE,TRUE,22.5,Deceased
+T090,Dr. Miller,Pneumonia,FALSE,FALSE,TRUE,11.5,Stable
+T091,Dr. Khan,Meningitis,TRUE,FALSE,TRUE,17.5,Critical
+T092,Dr. Aris,Multi-Trauma,TRUE,TRUE,TRUE,23.5,Deceased
+T093,Dr. Smith,Chest Pain,FALSE,FALSE,FALSE,12.5,Recovered
+T094,Dr. Aris,Post-Op Bleed,TRUE,FALSE,TRUE,16,Critical
+T095,Dr. Khan,Brain Injury,TRUE,TRUE,TRUE,18.5,Deceased
+T096,Dr. Miller,Stroke,TRUE,FALSE,TRUE,10,Stable
+T097,Dr. Aris,Respiratory Arrest,TRUE,TRUE,TRUE,19,Deceased
+T098,Dr. Smith,Fractured Ribs,FALSE,FALSE,FALSE,11,Recovered
+T099,Dr. Khan,PE (Readmission),TRUE,TRUE,TRUE,14,Stable
+T100,Dr. Aris,Septic Shock,TRUE,FALSE,TRUE,24,Deceased
+T101,Dr. Khan,Cardiogenic Shock,TRUE,TRUE,TRUE,15,Stable
+T102,Dr. Aris,Septic Shock,TRUE,FALSE,TRUE,24.5,Deceased
+T103,Dr. Miller,Acute Asthma,FALSE,FALSE,TRUE,8,Recovered
+T104,Dr. Aris,Pulmonary Edema,TRUE,TRUE,TRUE,25,Critical
+T105,Dr. Khan,Hemorrhagic Stroke,TRUE,FALSE,TRUE,16,Deceased
+T106,Dr. Smith,Post-Op Sepsis,TRUE,TRUE,TRUE,12,Stable
+T107,Dr. Aris,ARDS,TRUE,TRUE,TRUE,26,Deceased
+T108,Dr. Khan,Multiple Trauma,TRUE,TRUE,TRUE,17.5,Stable
+T109,Dr. Aris,Renal Failure,TRUE,FALSE,TRUE,27,Critical
+T110,Dr. Miller,Chest Pain,FALSE,FALSE,FALSE,9.5,Recovered
+T111,Dr. Khan,Bacterial Meningitis,TRUE,TRUE,TRUE,18.5,Critical
+T112,Dr. Aris,Heart Failure,TRUE,TRUE,TRUE,14,Stable
+T113,Dr. Smith,COVID-19 Severe,TRUE,FALSE,TRUE,13,Critical
+T114,Dr. Khan,Septicemia,TRUE,TRUE,TRUE,19.5,Deceased
+T115,Dr. Aris,Respiratory Arrest,TRUE,TRUE,TRUE,15.5,Deceased
+T116,Dr. Miller,Pneumonia,FALSE,FALSE,TRUE,10,Recovered
+T117,Dr. Khan,Brain Hemorrhage,TRUE,TRUE,TRUE,20,Critical
+T118,Dr. Aris,Cardiogenic Shock,TRUE,FALSE,TRUE,16.5,Deceased
+T119,Dr. Smith,Ruptured Appendix,FALSE,FALSE,FALSE,11.5,Recovered
+T120,Dr. Khan,Septic Shock,TRUE,TRUE,TRUE,21,Stable
+T121,Dr. Aris,Multi-Organ Failure,TRUE,TRUE,TRUE,18,Deceased
+T122,Dr. Khan,Heat Stroke,TRUE,FALSE,TRUE,22,Critical
+T123,Dr. Smith,Trauma (MVA),TRUE,TRUE,TRUE,14,Recovered
+T124,Dr. Aris,Septic Shock,TRUE,TRUE,TRUE,19,Critical
+T125,Dr. Khan,Kidney Failure,TRUE,FALSE,TRUE,23,Deceased
+T126,Dr. Aris,Brain Hemorrhage,TRUE,TRUE,TRUE,20,Critical
+T127,Dr. Miller,COPD Flare,FALSE,FALSE,TRUE,11,Stable
+T128,Dr. Aris,Cardiogenic Shock,TRUE,TRUE,TRUE,21,Deceased
+T129,Dr. Smith,Hip Replacement,FALSE,FALSE,FALSE,12.5,Recovered
+T130,Dr. Khan,Severe Pneumonia,TRUE,FALSE,TRUE,24,Deceased
+T131,Dr. Aris,Encephalitis,TRUE,TRUE,TRUE,25,Critical
+T132,Dr. Khan,Pulmonary Embolism,TRUE,TRUE,TRUE,16.5,Deceased
+T133,Dr. Miller,Asthma,FALSE,FALSE,TRUE,9,Recovered
+T134,Dr. Smith,Internal Bleeding,TRUE,TRUE,TRUE,13.5,Stable
+T135,Dr. Aris,Septic Shock,TRUE,FALSE,TRUE,26,Deceased
+T136,Dr. Khan,Liver Cirrhosis,TRUE,FALSE,FALSE,17,Critical
+T137,Dr. Aris,Pneumonia,TRUE,TRUE,TRUE,22,Stable
+T138,Dr. Lee,Fracture,FALSE,FALSE,FALSE,11,Recovered
+T139,Dr. Aris,Ischemic Stroke,TRUE,TRUE,TRUE,19.5,Critical
+T140,Dr. Miller,Pancreatitis,FALSE,FALSE,FALSE,8.5,Stable
+T141,Dr. Khan,Pulmonary Oedema,TRUE,TRUE,TRUE,18,Deceased
+T142,Dr. Aris,Viral Infection,TRUE,FALSE,TRUE,27,Critical
+T143,Dr. Smith,GI Bleed,TRUE,FALSE,TRUE,12,Stable
+T144,Dr. Aris,Septic Shock,TRUE,TRUE,TRUE,23,Deceased
+T145,Dr. Khan,Post-Surgical Sepsis,TRUE,TRUE,TRUE,19,Stable
+T146,Dr. Aris,Respiratory Distress,TRUE,FALSE,TRUE,28,Critical
+T147,Dr. Miller,Heart Failure,FALSE,FALSE,TRUE,10,Recovered
+T148,Dr. Aris,Multiple Trauma,TRUE,TRUE,TRUE,24.5,Deceased
+T149,Dr. Smith,COVID-19,TRUE,TRUE,TRUE,14.5,Stable
+T150,Dr. Aris,Acute Pancreatitis,FALSE,FALSE,FALSE,15,Recovered
+T151,Dr. Aris,Multi-Organ Failure,TRUE,TRUE,TRUE,28.5,Deceased
+T152,Dr. Khan,Heat Stroke,TRUE,FALSE,TRUE,22,Critical
+T153,Dr. Smith,Trauma (MVA),TRUE,TRUE,TRUE,14,Recovered
+T154,Dr. Aris,Septic Shock,TRUE,TRUE,TRUE,29,Critical
+T155,Dr. Khan,Kidney Failure,TRUE,FALSE,TRUE,23,Deceased
+T156,Dr. Aris,Brain Hemorrhage,TRUE,TRUE,TRUE,30,Deceased
+T157,Dr. Miller,COPD Flare,FALSE,FALSE,TRUE,11,Stable
+T158,Dr. Aris,Cardiogenic Shock,TRUE,TRUE,TRUE,30.5,Deceased
+T159,Dr. Smith,Hip Replacement,FALSE,FALSE,FALSE,12.5,Recovered
+T160,Dr. Khan,Severe Pneumonia,TRUE,FALSE,TRUE,24,Deceased
+T161,Dr. Lee,Viral Meningitis,TRUE,TRUE,TRUE,8,Stable
+T162,Dr. Miller,Pulmonary Embolism,TRUE,TRUE,TRUE,9,Recovered
+T163,Dr. Lee,Asthma,FALSE,FALSE,TRUE,10,Stable
+T164,Dr. Smith,Internal Bleeding,TRUE,TRUE,TRUE,13.5,Stable
+T165,Dr. Miller,Septic Shock,TRUE,FALSE,TRUE,11,Critical
+T166,Dr. Khan,Liver Cirrhosis,TRUE,FALSE,FALSE,12,Stable
+T167,Dr. Lee,Pneumonia,TRUE,TRUE,TRUE,9.5,Recovered
+T168,Dr. Lee,Fracture,FALSE,FALSE,FALSE,11,Recovered
+T169,Dr. Miller,Ischemic Stroke,TRUE,TRUE,TRUE,12,Stable
+T170,Dr. Miller,Pancreatitis,FALSE,FALSE,FALSE,8.5,Stable
+T171,Dr. Khan,Pulmonary Oedema,TRUE,TRUE,TRUE,14,Deceased
+T172,Dr. Aris,Viral Infection,TRUE,FALSE,TRUE,12,Critical
+T173,Dr. Smith,GI Bleed,TRUE,FALSE,TRUE,11,Stable
+T174,Dr. Khan,Septic Shock,TRUE,TRUE,TRUE,15,Deceased
+T175,Dr. Khan,Post-Surgical Sepsis,TRUE,TRUE,TRUE,16,Stable
+T176,Dr. Lee,Respiratory Distress,TRUE,FALSE,TRUE,11.5,Critical
+T177,Dr. Miller,Heart Failure,FALSE,FALSE,TRUE,10,Recovered
+T178,Dr. Khan,Multiple Trauma,TRUE,TRUE,TRUE,18,Deceased
+T179,Dr. Smith,COVID-19,TRUE,TRUE,TRUE,14.5,Stable
+T180,Dr. Miller,Acute Pancreatitis,FALSE,FALSE,FALSE,12,Recovered
+T181,Dr. Khan,Multi-Organ Failure,TRUE,TRUE,TRUE,19.5,Deceased
+T182,Dr. Khan,Heat Stroke,TRUE,FALSE,TRUE,20,Critical
+T183,Dr. Smith,Trauma (MVA),TRUE,TRUE,TRUE,11.5,Recovered
+T184,Dr. Aris,Septic Shock,TRUE,TRUE,TRUE,12,Critical
+T185,Dr. Khan,Kidney Failure,TRUE,FALSE,TRUE,21,Deceased
+T186,Dr. Aris,Brain Hemorrhage,TRUE,TRUE,TRUE,13,Critical
+T187,Dr. Miller,COPD Flare,FALSE,FALSE,TRUE,11,Stable
+T188,Dr. Aris,Cardiogenic Shock,TRUE,TRUE,TRUE,14,Deceased
+T189,Dr. Smith,Hip Replacement,FALSE,FALSE,FALSE,12.5,Recovered
+T190,Dr. Khan,Severe Pneumonia,TRUE,FALSE,TRUE,22,Deceased
+T191,Dr. Aris,Refractory Shock,TRUE,TRUE,TRUE,15,Critical
+T192,Dr. Miller,COPD Exacerbation,FALSE,FALSE,TRUE,10.5,Stable
+T193,Dr. Aris,Multiorgan Failure,TRUE,TRUE,TRUE,16,Deceased
+T194,Dr. Lee,Pneumothorax,TRUE,FALSE,TRUE,12,Stable
+T195,Dr. Aris,Septicemia,TRUE,TRUE,TRUE,15.5,Critical
+T196,Dr. Smith,Post-Op Hemorrhage,TRUE,FALSE,TRUE,11,Recovered
+T197,Dr. Miller,Stroke (Ischemic),TRUE,FALSE,TRUE,12.5,Stable
+T198,Dr. Khan,Dengue Shock Syndrome,TRUE,FALSE,TRUE,14,Recovered
+T199,Dr. Aris,Hypoxic Brain Injury,TRUE,TRUE,TRUE,17,Deceased
+T200,Dr. Aris,Terminal Respiratory,TRUE,TRUE,TRUE,18,Deceased

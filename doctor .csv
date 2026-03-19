@@ -1,0 +1,26 @@
+doctor_id,doctor_name,specialization,years_experience,shift_type,shift_start,shift_end,max_daily_capacity,department,is_on_call,critical_care_specialist
+1,Dr_1,General Medicine,3,Day,8:00:00,20:00:00,33,General Medicine,TRUE,FALSE
+2,Dr_2,Cardiology,6,Day,8:00:00,20:00:00,42,Cardiology,TRUE,FALSE
+3,Dr_3,Pulmonology,4,Night,20:00:00,8:00:00,25,Pulmonology,TRUE,FALSE
+4,Dr_4,Cardiology,19,Day,8:00:00,20:00:00,44,Cardiology,TRUE,FALSE
+5,Dr_5,Pulmonology,25,Day,8:00:00,20:00:00,45,Pulmonology,FALSE,FALSE
+6,Dr_6,Cardiology,21,Night,20:00:00,8:00:00,33,Cardiology,TRUE,FALSE
+7,Dr_7,Cardiology,16,Rotational,20:00:00,8:00:00,35,Cardiology,FALSE,FALSE
+8,Dr_8,Cardiology,13,Day,8:00:00,20:00:00,28,Cardiology,TRUE,FALSE
+9,Dr_9,Orthopedics,14,Day,8:00:00,20:00:00,36,Orthopedics,FALSE,FALSE
+10,Dr_10,ICU,17,Rotational,20:00:00,8:00:00,42,ICU,TRUE,TRUE
+11,Dr_11,Orthopedics,20,Day,8:00:00,20:00:00,34,Orthopedics,FALSE,FALSE
+12,Dr_12,Pulmonology,25,Day,8:00:00,20:00:00,27,Pulmonology,TRUE,FALSE
+13,Dr_13,General Medicine,12,Day,8:00:00,20:00:00,27,General Medicine,TRUE,FALSE
+14,Dr_14,ICU,11,Night,20:00:00,8:00:00,39,ICU,FALSE,TRUE
+15,Dr_15,Cardiology,14,Night,20:00:00,8:00:00,31,Cardiology,FALSE,FALSE
+16,Dr_16,General Medicine,23,Rotational,20:00:00,8:00:00,27,General Medicine,TRUE,FALSE
+17,Dr_17,Pulmonology,10,Rotational,20:00:00,8:00:00,30,Pulmonology,FALSE,FALSE
+18,Dr_18,Orthopedics,23,Night,20:00:00,8:00:00,42,Orthopedics,TRUE,FALSE
+19,Dr_19,General Medicine,4,Night,20:00:00,8:00:00,32,General Medicine,TRUE,FALSE
+20,Dr_20,Neurology,11,Night,20:00:00,8:00:00,27,Neurology,TRUE,FALSE
+21,Dr_21,Pulmonology,13,Rotational,20:00:00,8:00:00,31,Pulmonology,FALSE,FALSE
+22,Dr_22,Orthopedics,17,Rotational,20:00:00,8:00:00,29,Orthopedics,FALSE,FALSE
+23,Dr_23,Cardiology,20,Day,8:00:00,20:00:00,42,Cardiology,FALSE,FALSE
+24,Dr_24,General Medicine,16,Rotational,20:00:00,8:00:00,43,General Medicine,FALSE,FALSE
+25,Dr_25,Neurology,7,Day,8:00:00,20:00:00,41,Neurology,FALSE,FALSE
